@@ -1,0 +1,14 @@
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.deps.json
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.runtimeconfig.json
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.runtimeconfig.dev.json
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.dll
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.pdb
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.csproj.CoreCompileInputs.cache
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.RazorAssemblyInfo.cache
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.RazorAssemblyInfo.cs
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.AssemblyInfoInputs.cache
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.AssemblyInfo.cs
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.RazorTargetAssemblyInfo.cache
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.dll
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.pdb
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.csprojAssemblyReference.cache
