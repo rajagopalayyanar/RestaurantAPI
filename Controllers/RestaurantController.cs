@@ -27,8 +27,8 @@ namespace RestaurantsAPI.Controllers
 
         }
 
-        [HttpGet]
-        //[HttpGet(Name = "GetAllRestaurant")]
+        //[HttpGet]
+        [HttpGet(Name = "GetRestaurants")]
         [ProducesResponseType((int)HttpStatusCode.OK)]
         public async Task<ActionResult<List<Restaurant>>> Get()
         {
